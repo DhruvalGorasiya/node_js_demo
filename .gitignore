@@ -34,7 +34,7 @@ bower_components
 
 # node-waf configuration
 .lock-wscript
-.package-lock.json
+package-lock.json
 
 # Compiled binary addons (hgit rm -r --cached .
 git add .
