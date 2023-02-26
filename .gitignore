@@ -36,7 +36,9 @@ bower_components
 .lock-wscript
 .package-lock.json
 
-# Compiled binary addons (https://nodejs.org/api/addons.html)
+# Compiled binary addons (hgit rm -r --cached .
+git add .
+git commit -m "fixed untracked files"ttps://nodejs.org/api/addons.html)
 build/Release
 
 # Dependency directories
