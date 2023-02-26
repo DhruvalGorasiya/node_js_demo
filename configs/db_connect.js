@@ -1,4 +1,4 @@
-const mongoDB = "mongodb://127.0.0.1:27017/userDatabase";
+const mongoDB = "mongodb+srv://DhruvalGorasiya:Dhruval9535@cluster0.r5mwsou.mongodb.net/test";
 const mongoose = require("mongoose");
 mongoose.set("strictQuery", false);
 const connectDB = mongoose.connect(mongoDB, (error) => {
