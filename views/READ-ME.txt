@@ -1,4 +1,4 @@
-  =>  Template Name    : FreeFolio - Freelancer Portfolio Template
+  =>  Template Name    : PortFolio - Freelancer Portfolio Template
 
   =>  Template Link    : https://htmlcodex.com/freelancer-portfolio-template
 
